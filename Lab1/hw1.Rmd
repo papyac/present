@@ -1,0 +1,14 @@
+---
+title: "hw1"
+author: "Elaine"
+date: "1/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+put paragraph

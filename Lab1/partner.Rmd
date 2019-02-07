@@ -1,0 +1,19 @@
+---
+title: "partner"
+author: "Seydou Yacouba"
+date: "January 24, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+1.)Elaine OldBear elaineob
+
+2.) she added homework files, 1402a29ccb7c75e5b8bc56167f469c2ab0aa2d00 
+
+3.) no problems
+
+4.) know what the process is to add files to github
